@@ -4,5 +4,5 @@ title: Course Materials
 permalink: /course-materials/
 ---
 
-* [The International Student's Guide](/C:\dev\course_template\designweb.pdf)
+* [OOP –Learn Object Oriented Thinking and Programming by:Rudolf Pecinovský](http://files.bruckner.cz/be2a5b2104bf393da7092a4200903cc0/PecinovskyOOP.pdf)
 * [The Smarter Student Skills And Strategies for Success at University](/static_files/materials/Books/11_The_Smarter_Student_Skills_And_Strategies_for_Success_at_University.pdf)
