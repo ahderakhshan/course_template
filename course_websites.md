@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Websites
-permalink: /course_websites/
+permalink: /course_layout/
 ---
 
 | # |       Course Name                      |   Instructor    | Student Name    | Website URL          |
