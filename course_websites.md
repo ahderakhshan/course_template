@@ -11,6 +11,7 @@ permalink: /course_websites/
 -System Design ( A not that brief recap)
 -Addressing design goals
 -Software Architectures
+---
 **Patterns and Anti-Patterns (Second Module)**
 --A detailed review of design patterns 
 -Structural
@@ -21,6 +22,7 @@ permalink: /course_websites/
 -Architectural Anti patterns
 -Management Anti patterns
 -Testing Anti patterns
+---
 **Aspect Oriented Programming (Third(1) Module)**
 -Why?
 -When?
@@ -29,6 +31,7 @@ permalink: /course_websites/
 --Joint Points
 --Advices
 --Pointcuts
+---
 **Service Oriented Software Engineering (Third(2) Module)**
 -Why?
 -When?
@@ -37,12 +40,14 @@ permalink: /course_websites/
 --Abstractions
 --Communications
 --Design Principles
+---
 **Microservice Architecture (Fourth Module)**
 -All things microservice
 --Concepts
 --Containarization
 --Migration from Monolith to Microservices
 --Challenges and Concerns
+---
 **Software Testing (Fifth Module)**
 -Software testing types
 --Black Box
@@ -51,6 +56,7 @@ permalink: /course_websites/
 --Functional and Non-Functional
 -How Google test software?
 -Verification and Validation
+---
 **Reliability, Security and Real-time Software Engineering (Sixth Module)**
 **If we had enough time!**
 -Availability and reliability
@@ -67,6 +73,7 @@ permalink: /course_websites/
 -Architectural patterns for real-time software
 -Timing analysis
 -Real-time operating systems
+---
 **Things that are expected from you!**
 **Continuing your SE 1 Project**
 -Design
