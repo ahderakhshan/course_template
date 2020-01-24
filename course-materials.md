@@ -6,8 +6,12 @@ permalink: /course-materials/
 **main resource**<br />
 * software engineering by:Ian Sommerville [download](static_files/materail/Books/aaaa.pdf)
 * beginning software engineering by:Rod Stephens [download](static_files/materail/Books/bbbb.pdf)
-* software engineering a practitioner's approach [download](static_files/materail/Books/cccc.pdf)
+* software engineering a practitioner's approach [download](static_files/materail/Books/cccc.pdf)<br />
 **very good resource**<br />
+* code compelete [download](static_files/materail/Books/dddd.pdf)
+* software engineering modern approach [download]()
+* engineering software as a service [download](static_files/materail/Books/eeee.pdf)<br />
+**classic resource**<br />
 *
 
 * [Object Oriented Programming In Csharp For C And Java Programmers](static_files/materail/Books/ada95oop.pdf)
