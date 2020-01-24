@@ -18,12 +18,12 @@ permalink: /assignments/
 {% endfor %}
 </ul>
 
-***A complete commercial level project done during the term with the following conditions:***
---Scrum should be used as the project management framework
---Teams should consist of at least 4 people
---Deliverables should be provided in each sprint
---A special focus on the followings:
-----Architecture
-----Design decisions
-----Project management reports
-----Learning new things!
+***A complete commercial level project done during the term with the following conditions:***<br />
+--Scrum should be used as the project management framework<br />
+--Teams should consist of at least 4 people<br />
+--Deliverables should be provided in each sprint<br />
+**--A special focus on the followings:**<br />
+----Architecture<br />
+----Design decisions<br />
+----Project management reports<br />
+----Learning new things!<br />
