@@ -8,8 +8,8 @@ permalink: /course_websites/
 |---|:--------------------------------------:|:---------------:|:----------------|---------------------:|
 | 1 | College Orientation and Student Skills |     Eetemadi    |   Pariya Fesahat| https://sauleh.github.io/co98 | -->
 **Continuing System Design (First Module)**
--System Design ( A not that brief recap)
--Addressing design goals
+-System Design ( A not that brief recap)<br />
+-Addressing design goals<br />
 -Software Architectures
 ---
 **Patterns and Anti-Patterns (Second Module)**
