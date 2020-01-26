@@ -3,7 +3,7 @@ layout: page
 title: Course Materials
 permalink: /course-materials/
 ---
-**resources**<br />
+*resources<br />
 **main resources**
 * software engineering by:Ian Sommerville [download](static_files/materail/Books/aaaa.pdf)
 * beginning software engineering by:Rod Stephens [download](static_files/materail/Books/bbbb.pdf)
