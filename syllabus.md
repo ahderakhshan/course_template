@@ -4,6 +4,6 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-find and download the syllbaus [here](static_files/Capture.jpg).
+find and download the syllbaus [here](static_files/Capture.jpg.jpg).
 ---
 ![alt text](http://uupload.ir/files/c3bd_capture.jpg.jpg).
